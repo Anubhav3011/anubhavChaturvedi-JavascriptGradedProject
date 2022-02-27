@@ -1,2 +1,1 @@
-# anubhavChaturvedi_JavascriptGradedProject
-Javascript Graded Project (Anubhav Chaturvedi)
+# Javascript Graded Project (Anubhav Chaturvedi)
